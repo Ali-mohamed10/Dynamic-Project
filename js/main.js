@@ -1,12 +1,8 @@
 /* Start Loading */
 
 window.addEventListener("load", function () {
-  setTimeout(() => {
-    document.querySelector(".loading-bar").classList.add("hide");
-  }, 2500);
-  setTimeout(() => {
-    document.querySelector(".loading-container").classList.add("hide");
-  }, 3000);
+  document.querySelector(".loading-bar").classList.add("hide");
+  document.querySelector(".loading-container").classList.add("hide");
 });
 
 /* End Loading */
