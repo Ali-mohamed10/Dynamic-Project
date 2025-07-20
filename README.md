@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Live Demo](https://ali-mohamed10.github.io/Dynamic-Project/)
+[Live Demo](https://dynamic-project-lyart.vercel.app/)
 
 This is a simple, responsive multi-section website template. It features a modern design with sections for About Us, Skills, Gallery, Timeline, Features, Testimonials, and Contact Us. The project uses HTML, CSS, and JavaScript, and is suitable for personal, portfolio, or small business websites.
 
